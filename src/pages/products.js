@@ -13,7 +13,6 @@ const ProductsWrapper = styled.section`
   width: 100%;
   margin-top: 3rem;
   font-family: sans-serif;
-  background-color: #34ff29;
   article {
     width: 300px;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
